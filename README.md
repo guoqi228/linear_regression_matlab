@@ -3,7 +3,7 @@
 ## Simple Linear Regression
 
 ### 1. View the dataset
-![Dataset]( linear_regression_matlab/fig_1_data.png )
+![Dataset]( https://raw.githubusercontent.com/guoqi228/linear_regression_matlab/master/fig_1_data.png )
 
 ### 2. Gradient descend
 ```
@@ -21,11 +21,11 @@ J = sum(error.*error)/(2*m);
 ```
 
 ### 4. Linear fit
-![Linear fit]( linear_regression_matlab/fig_2_linear_fit.png )
+![Linear fit]( https://raw.githubusercontent.com/guoqi228/linear_regression_matlab/master/fig_2_linear_fit.png )
 
 ### 5. Visualize cost function
-![Cost function - surf]( linear_regression_matlab/fig_3_cost.png )
-![Cost function - contour]( linear_regression_matlab/fig_4_cost_2.png )
+![Cost function - surf]( https://raw.githubusercontent.com/guoqi228/linear_regression_matlab/master/fig_3_cost.png )
+![Cost function - contour]( https://raw.githubusercontent.com/guoqi228/linear_regression_matlab/master/fig_4_cost_2.png )
 
 ## Multiple Linear Regression
 
@@ -50,7 +50,7 @@ end
 ```
 
 ### 3. Convergence vs learning rate
-![Cost function - Learning rate]( linear_regression_matlab/fig_5_gradient_descend.png )
+![Cost function - Learning rate]( https://raw.githubusercontent.com/guoqi228/linear_regression_matlab/master/fig_5_gradient_descend.png )
 
 ### 4. Normal equation (closed form solution)
 ```
